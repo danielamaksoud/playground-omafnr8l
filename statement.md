@@ -3,7 +3,10 @@
 This Python template lets you get started quickly with a simple one-page playground.
 
 ```python runnable
-print('Hello World!')
+lado = 3/4;
+area = lado**2;
+
+print("A area do assento e igual a", area, "m2");
 ```
 
 # Advanced usage
